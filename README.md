@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @gibosky-voetranquilo
+- 👋 Hi, I’m Guilherme Gibosky
 - 👀 I’m interested in coding, arcade and rading
 - 🌱 I’m currently learning angular and django
 - 💞️ I’m looking to collaborate on big and inovative projects
